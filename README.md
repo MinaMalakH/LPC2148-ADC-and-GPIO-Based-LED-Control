@@ -58,7 +58,7 @@ This project demonstrates **Analog-to-Digital Conversion (ADC)** and **GPIO cont
 ---
 
 ## 📁 File
-- `adc_led_control.asm` — complete source code (fully commented).
+- `Main.s` — complete source code (fully commented).
 
 ---
 
